@@ -1,0 +1,14 @@
+server:
+    port: 8083
+spring:
+    kafka:
+        bootstrap:
+            servers: localhost:9092
+edu:
+    cefet:
+        tcc:
+            load:
+                raw-data-processor:
+                    input-topic: raw-data
+                metadata-processor:
+                    input-topic: metadata-data

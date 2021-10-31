@@ -1,0 +1,17 @@
+server: 
+    port: 8085
+spring:
+    kafka:
+        bootstrap:
+            servers: localhost:9092
+edu:
+    cefet:
+        tcc:    
+            transform:
+                app-raw-data:
+                    input-topic: new-filtered-data-test
+                    output-topic: raw-data
+                app-metadata:
+                    input-topic: new-filtered-data-test
+                    output-topic: metadata-data
+                    
