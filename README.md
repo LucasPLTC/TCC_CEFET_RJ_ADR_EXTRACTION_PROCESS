@@ -27,7 +27,7 @@ Orientadores:
 
 	Pasta para documentações, versões PDF dos entregáveis e afins.
 
-## tweets exportados foram removidos por questões de privacidade, e estão sendo limpos para disponibilização.
+## Os tweets extraídos foram removidos por questões de privacidade, e estão sendo limpos (retirando dados sensíveis) para disponibilização.
 	Para requisita-los, entre em contato por:
 	renato.mauro@cefet-rj.br, 
 	kele.belloze@cefet-rj.br
